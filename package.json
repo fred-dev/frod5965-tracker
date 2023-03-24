@@ -1,0 +1,23 @@
+{
+  "name": "frod5965-tracker",
+  "version": "1.0.0",
+  "description": "My first nodeJS server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fred-dev/frod5965-tracker.git"
+  },
+  "keywords": [
+    "server",
+    "nodejs"
+  ],
+  "author": "fred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fred-dev/frod5965-tracker/issues"
+  },
+  "homepage": "https://github.com/fred-dev/frod5965-tracker#readme"
+}
